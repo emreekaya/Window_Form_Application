@@ -9,8 +9,6 @@ namespace Envanter_Uygulamasi
 {
     public static class SqlCon
     {
-
         public static  SqlConnection baglanti =  new SqlConnection("Data Source=DESKTOP-DIF1517\\SQLEXPRESS01;Initial Catalog=Envanter_Veri_Tabani;Integrated Security=True");
-
     }
 }

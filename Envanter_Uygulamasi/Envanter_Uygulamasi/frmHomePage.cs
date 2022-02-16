@@ -17,8 +17,6 @@ namespace Envanter_Uygulamasi
         {
             InitializeComponent();
         }
-       
-        //private SqlSqlConnection SqlCon.baglanti = new SqlSqlConnection("Data Source=DESKTOP-DIF1517\\SQLEXPRESS01;Initial Catalog=Envanter_Veri_Tabani;Integrated Security=True");
         private void btnSirketler_Click(object sender, EventArgs e)
         {
             dataGridView1.Visible = true;
